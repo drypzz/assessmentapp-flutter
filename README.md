@@ -47,7 +47,12 @@ git clone https://github.com/drypzz/assessmentapp-flutter
 cd assessmentapp-flutter
 ```
 
-- 3. Rode o projeto utilizando
+- 3. Instalar as dependencias
+```bash
+flutter pub get
+```
+
+- 4. Rode o projeto utilizando
 ```bash
 flutter run
 ```
